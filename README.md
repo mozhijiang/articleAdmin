@@ -8,3 +8,6 @@
   1  
   2  
   3  
+# 技术栈
+  Vue3.0 + Vuex + Vue-router + Axios + Element-UI + PHP + MySQL
+  
