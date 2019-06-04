@@ -16,5 +16,5 @@
 ![images](screenShots/comments-admin.PNG)
 ![images](screenShots/user-admin.PNG)
 # 技术栈
-  Vue3.0 + Vuex + Vue-router + Axios + Element-UI + PHP + MySQL  
+  Vue3.0 + Vuex + Vue-router + Element-UI + Axios + PHP + MySQL  
   开发时间：一个月  
