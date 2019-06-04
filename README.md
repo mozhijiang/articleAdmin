@@ -8,8 +8,13 @@
   ![images](screenShots/login.PNG)
   ![images](screenShots/aside.PNG)
   ![images](screenShots/main.PNG)
+  ![images](screenShots/atricle-detail.PNG)
+  ![images](screenShots/article-add.PNG)
+  ![images](screenShots/my-message.PNG)
 # 管理页
-
+  ![images](screenShots/type-admin.PNG)
+  ![images](screenShots/comments-admin.PNG)
+  ![images](screenShots/user-admin.PNG)
 # 技术栈
   Vue3.0 + Vuex + Vue-router + Axios + Element-UI + PHP + MySQL
   
