@@ -5,8 +5,8 @@
   >评论添加、审核、删除  
   >用户信息修改、头像上传、删除  
 # 用户页
-  ![images](screenShots/login.PNG)  
-  ![images](screenShots/aside.PNG) 
+  ![images](screenShots/login.PNG)
+  ![images](screenShots/aside.PNG)
   ![images](screenShots/main.PNG)
 # 管理页
 
